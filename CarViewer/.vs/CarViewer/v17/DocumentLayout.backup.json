@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Programs\\CarViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{315C2764-2FAE-4DE0-BAA1-E10C13DD3267}|CarViewer.csproj|d:\\year 2\\semester 1\\oop 2 - cosc 2100 - kyle chapman\\programs\\carviewer\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315C2764-2FAE-4DE0-BAA1-E10C13DD3267}|CarViewer.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315C2764-2FAE-4DE0-BAA1-E10C13DD3267}|CarViewer.csproj|d:\\year 2\\semester 1\\oop 2 - cosc 2100 - kyle chapman\\programs\\carviewer\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{315C2764-2FAE-4DE0-BAA1-E10C13DD3267}|CarViewer.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{315C2764-2FAE-4DE0-BAA1-E10C13DD3267}|CarViewer.csproj|d:\\year 2\\semester 1\\oop 2 - cosc 2100 - kyle chapman\\programs\\carviewer\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{315C2764-2FAE-4DE0-BAA1-E10C13DD3267}|CarViewer.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Programs\\CarViewer\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Programs\\CarViewer\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T12:07:56.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Programs\\CarViewer\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Programs\\CarViewer\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-01T15:18:56.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Programs\\CarViewer\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Programs\\CarViewer\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T15:18:50.729Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
