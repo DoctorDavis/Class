@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Class\\CarInventory\\CarInventoryApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB3FC4-B68F-491C-8518-FEA23DDE39A7}|CarInventoryApp.csproj|d:\\year 2\\semester 1\\oop 2 - cosc 2100 - kyle chapman\\class\\carinventory\\carinventoryapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{47FB3FC4-B68F-491C-8518-FEA23DDE39A7}|CarInventoryApp.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47FB3FC4-B68F-491C-8518-FEA23DDE39A7}|CarInventoryApp.csproj|d:\\year 2\\semester 1\\oop 2 - cosc 2100 - kyle chapman\\class\\carinventory\\carinventoryapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47FB3FC4-B68F-491C-8518-FEA23DDE39A7}|CarInventoryApp.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Class\\CarInventory\\CarInventoryApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Class\\CarInventory\\CarInventoryApp\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-17T13:34:15.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Class\\CarInventory\\CarInventoryApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "D:\\YEAR 2\\SEMESTER 1\\OOP 2 - COSC 2100 - Kyle Chapman\\Class\\CarInventory\\CarInventoryApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-17T13:34:13.389Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

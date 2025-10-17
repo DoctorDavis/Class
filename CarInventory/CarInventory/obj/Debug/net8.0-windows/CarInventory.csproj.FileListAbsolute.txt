@@ -1,0 +1,2 @@
+D:\YEAR 2\SEMESTER 1\OOP 2 - COSC 2100 - Kyle Chapman\Class\CarInventory\CarInventory\obj\Debug\net8.0-windows\App.g.cs
+D:\YEAR 2\SEMESTER 1\OOP 2 - COSC 2100 - Kyle Chapman\Class\CarInventory\CarInventory\obj\Debug\net8.0-windows\CarInventory_MarkupCompile.cache
